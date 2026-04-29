@@ -27,3 +27,7 @@ This project was inspired by a tutorial and customized with a new theme, styling
 - Add scoring system and timer
 - Introduce difficulty levels
 - Improve animations and overall design
+
+## Credits
+- Character images are inspired by and sourced from Cookie Run: Kingdom (used for educational purposes only).
+- Icon sourced from Pinterest: https://ca.pinterest.com/pin/pink-cookie-run-icon--204210164347714487/ (original creator unknown).
