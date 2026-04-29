@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    background: #dd3176;
+  }
+
+  .memory-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  
+
+.memory-game{
+    width: 640px;
+    height: 640px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    perspective: 1000px;
+}
+
+.memory-card{
+    width: calc(25% - 10px);
+    height: calc(33.333% - 10px);
+    margin: 5px;
+    position: relative;
+    transform: scale(1);
+   /* box-shadow: 1px 1px 1px #56132e;*/
+    transform-style: preserve-3d;
+    transition: transform .5s;
+}
+
+.memory-card:active{
+    transform:scale(0.97);
+    transition: transform .2s;
+}
+
+.memory-card.flip{
+    transform: rotateY(180deg);
+}
+
+.front-face,
+.back-face{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    position: absolute;
+    border-radius: 5px;
+    background: #FEA3C8;
+    backface-visibility: hidden;;
+}
+
+.front-face{
+    transform: rotateY(180deg);
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .game-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  
+  #reset-btn {
+    width: 100px;
+    height: 100px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 12px;
+    cursor: pointer;
+  
+    background-color: #FEA3C8; 
+    color: #c22a67;
+    border: none;
+  }
+  
+  #reset-btn:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+  
+  #reset-btn:active {
+    transform: scale(0.98);
+  }
+ 
