@@ -1,9 +1,5 @@
 # memory-game-crk
 
-## Acknowledgment
-The core game logic was inspired by a YouTube tutorial.
-Free Code Camp: https://www.youtube.com/watch?v=ZniVgo8U7ek
-
 ## Overview
 An interactive memory matching game themed around Cookie Run characters, where players flip cards to find matching pairs.
 
@@ -33,5 +29,7 @@ This project was inspired by a tutorial and customized with a new theme, styling
 - Improve animations and overall design
 
 ## Credits
-- Character images are inspired by and sourced from Cookie Run: Kingdom (used for educational purposes only).
-- Icon sourced from Pinterest: https://ca.pinterest.com/pin/pink-cookie-run-icon--204210164347714487/ (original creator unknown).
+- Game Logic: Inspired by FreeCodeCamp's Memory Game Tutorial. https://www.youtube.com/watch?v=ZniVgo8U7ek
+- Assets: Character images and sprites are property of Devsisters Corp. and sourced from Cookie Run: Kingdom.
+- Disclaimer: This project is an unofficial fan work. This content is not affiliated, sponsored or approved by Devsisters.
+- Icon: Sourced from Pinterest (original creator unknown). https://ca.pinterest.com/pin/pink-cookie-run-icon--204210164347714487/
