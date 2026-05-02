@@ -32,4 +32,4 @@ This project was inspired by a tutorial and customized with a new theme, styling
 - Game Logic: Inspired by FreeCodeCamp's Memory Game Tutorial. https://www.youtube.com/watch?v=ZniVgo8U7ek
 - Assets: Character images and sprites are property of Devsisters Corp. and sourced from Cookie Run: Kingdom.
 - Disclaimer: This project is an unofficial fan work. This content is not affiliated, sponsored or approved by Devsisters.
-- Icon: Sourced from Pinterest (original creator unknown). https://ca.pinterest.com/pin/pink-cookie-run-icon--204210164347714487/
+- Icon: Sourced from Pinterest (uploaded by @esquiky). https://ca.pinterest.com/pin/pink-cookie-run-icon--204210164347714487/
