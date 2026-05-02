@@ -1,5 +1,9 @@
 # memory-game-crk
 
+## Acknowledgment
+The core game logic was inspired by a YouTube tutorial.
+Free Code Camp: https://www.youtube.com/watch?v=ZniVgo8U7ek
+
 ## Overview
 An interactive memory matching game themed around Cookie Run characters, where players flip cards to find matching pairs.
 
